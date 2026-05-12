@@ -1,0 +1,2 @@
+"""History routes placeholder."""
+
