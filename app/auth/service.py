@@ -1,2 +1,0 @@
-"""Auth business logic placeholder."""
-

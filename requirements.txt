@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+transformers
+torch
+peft
+accelerate
+anyio
+httpx
+pytest
+motor
+pymongo
+python-dotenv

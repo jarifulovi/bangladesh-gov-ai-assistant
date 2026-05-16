@@ -1,2 +1,0 @@
-"""History business logic placeholder."""
-

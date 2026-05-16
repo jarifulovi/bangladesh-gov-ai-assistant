@@ -1,2 +1,0 @@
-"""Chat history module."""
-
